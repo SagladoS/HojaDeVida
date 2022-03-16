@@ -1,0 +1,587 @@
+body{position: relative;
+    width: 1440px;
+    height: 1024px;
+    
+    background: #FFFFFF;
+    background-size: 1440*1024;
+    background-repeat: no-repeat;}
+
+header{position: absolute;
+    width: 347px;
+    height: 1000px;
+    left: 12px;
+    top: 12px;}
+
+.fondo{position: absolute;
+    width: 347px;
+    height: 1000px;
+    left: 12px;
+    top: 12px;
+    
+    background: #0230ff;
+    border-radius: 20px 0px;}
+
+.imag{position: absolute;
+    left: 100px;
+    top: 200px;
+    
+    background: url("https://scontent.feoh3-1.fna.fbcdn.net/v/t39.30808-6/274747781_5681880515171741_2627749639664697754_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=5b7eaf&_nc_eui2=AeGvdIWSdNzuh0OgEfxsQux7WFRjMDZM6JJYVGMwNkzokuT-PpY9ZCnCPW3IvAnlMAcz4x2dz6PM_J6vcVzrDkQg&_nc_ohc=7FBjxTmk5zgAX_A07_t&_nc_pt=1&_nc_ht=scontent.feoh3-1.fna&oh=00_AT_qsWS2cH8ZDm_RcDBtbPB5RbH4zlwNR-ufjDADcry5Qg&oe=6232AC0");
+    border-radius: 100px}
+
+.curriculum{position: absolute;
+    width: 242px;
+    height: 40px;
+    left: 55px;
+    top: 250px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    
+    color: #FFFFFF;}
+
+.dat{position: absolute;
+    width: 241px;
+    height: 27px;
+    left: 40px;
+    top: 329px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    
+    color: #FFFEFE;}
+
+
+.nom{position: absolute;
+    width: 201px;
+    height: 21px;
+    left: 74px;
+    top: 395px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+     color: #FFFFFF;}
+
+
+.correo{position: absolute;
+    width: 234px;
+    height: 21px;
+    left: 74px;
+    top: 430px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+    color: #FFFFFF;}
+
+
+
+.numero{
+    position: absolute;
+    width: 212px;
+    height: 20px;
+    left: 74px;
+    top: 468px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    
+    color: #FFFFFF;}
+
+
+
+.pais{position: absolute;
+    width: 203px;
+    height: 21px;
+    left: 74px;
+    top: 504px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+     color: #FFFFFF;}
+
+
+.pagina{position: absolute;
+    width: 268px;
+    height: 26px;
+    left: 74px;
+    top: 556px;
+    
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    
+    color: #FFFFFF;}
+
+.competencias{position: absolute;
+    width: 240px;
+    height: 26px;
+    left: 42px;
+    top: 570px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 35px;
+    
+    color: #FFFEFE;}
+
+
+
+.resp{position: absolute;
+    width: 152px;
+    height: 24px;
+    left: 42px;
+    top: 625px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    
+    color: #FFFFFF;}
+
+
+.comun{position: absolute;
+    width: 141px;
+    height: 18px;
+    left: 42px;
+    top: 659px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    
+    color: #FFFFFF;}
+
+
+
+.trabajo{position: absolute;
+    width: 160px;
+    height: 31px;
+    left: 42px;
+    top: 697px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    
+    color: #FFFFFF;}
+
+
+
+
+.idiomas{position: absolute;
+    width: 197px;
+    height: 26px;
+    left: 42px;
+    top: 770px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 35px;
+    
+    color: #FFFEFE;}
+
+
+
+.esp{position: absolute;
+    width: 150px;
+    height: 19px;
+    left: 42px;
+    top: 825px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    
+    color: #FFFFFF;}
+
+
+.ingles{position: absolute;
+    width: 110px;
+    height: 20px;
+    left: 42px;
+    top: 859px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    
+    color: #FFFFFF;}
+
+
+
+.perfil{position: absolute;
+    width: 93px;
+    height: 38px;
+    left: 408px;
+    top: 41px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+    
+    color: #000000;
+    }
+
+
+
+.des{position: absolute;
+    width: 1002px;
+    height: 26px;
+    left: 408px;
+    top: 109px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 26px;
+    /* identical to box height */
+    color: #000000;}
+
+.formacion{position: absolute;
+    width: 186px;
+    height: 38px;
+    left: 408px;
+    top: 166px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+    
+    color: #000000;}
+
+
+
+.fecha1{position: absolute;
+    width: 201px;
+    height: 20px;
+    left: 408px;
+    top: 241px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    
+    color: #0230ff;}
+
+.bach{position: absolute;
+    width: 131px;
+    height: 21px;
+    left: 882px;
+    top: 238px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 26px;
+    
+    color: #000000;}
+
+.jos{position: absolute;
+    width: 378px;
+    height: 26px;
+    left: 882px;
+    top: 274px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 26px;
+    /* identical to box height */
+    color: #0230ff;}
+
+.fecha2{position: absolute;
+    width: 201px;
+    height: 20px;
+    left: 408px;
+    top: 337px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    
+    color: #0230ff;}
+
+.juven{position: absolute;
+    width: 222px;
+    height: 21px;
+    left: 882px;
+    top: 337px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 26px;
+    
+    color: #000000;}
+
+.gim{position: absolute;
+    width: 339px;
+    height: 26px;
+    left: 882px;
+    top: 371px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 26px;
+    /* identical to box height */
+     color: #0230ff;}
+
+.presente{position: absolute;
+    width: 88px;
+    height: 20px;
+    left: 408px;
+    top: 426px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    
+    color: #0230ff;}
+
+.ingenieria{position: absolute;
+    width: 244px;
+    height: 21px;
+    left: 882px;
+    top: 428px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 26px;
+    
+    color: #000000;}
+
+.universidad{position: absolute;
+    width: 456px;
+    height: 26px;
+    left: 882px;
+    top: 464px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 26px;
+    /* identical to box height */
+    color: #0230ff;}
+
+.cursos{position: absolute;
+    width: 123px;
+    height: 38px;
+    left: 408px;
+    top: 535px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+    
+    color: #000000;}
+
+
+
+.fecha3{position: absolute;
+    width: 88px;
+    height: 20px;
+    left: 408px;
+    top: 612px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    
+    color: #0230ff;}
+
+.bases{position: absolute;
+    width: 159px;
+    height: 21px;
+    left: 882px;
+    top: 609px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 26px;
+    
+    color: #000000;}
+
+.fecha4{position: absolute;
+    width: 88px;
+    height: 20px;
+    left: 408px;
+    top: 669px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    
+    color: #0230ff;}
+
+.redes{position: absolute;
+    width: 159px;
+    height: 21px;
+    left: 882px;
+    top: 669px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 26px;
+    
+    color: #000000;}
+
+.fecha5{position: absolute;
+    width: 88px;
+    height: 20px;
+    left: 410px;
+    top: 726px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    
+    color: #0230ff;}
+
+.programacion{position: absolute;
+    width: 159px;
+    height: 21px;
+    left: 882px;
+    top: 723px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 26px;
+    
+    color: #000000;}
+
+.fecha6{position: absolute;
+    width: 88px;
+    height: 20px;
+    left: 408px;
+    top: 774px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    
+    color: #0230ff;}
+
+.web{position: absolute;
+    width: 261px;
+    height: 21px;
+    left: 882px;
+    top: 776px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 26px;
+    
+    color: #000000;}
+
+
+
+
+
+.fecha7{position: absolute;
+    width: 88px;
+    height: 20px;
+    left: 408px;
+    top: 932px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    
+    color: #0230ff;}
+
+.python{position: absolute;
+    width: 159px;
+    height: 21px;
+    left: 882px;
+    top: 929px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 26px;
+    
+    color: #000000;}
+
+.imag9{position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 1350px;
+    top: 930px;}
